@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main() {
     // Declaração das variáveis para as duas cartas
     char estado1, estado2;
@@ -96,6 +94,7 @@ int main() {
     return 0;
 
 }
+
 
 
 
